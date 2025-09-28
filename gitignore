@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Personal data files 
+*.pdf
+*.docx
+*.doc
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
