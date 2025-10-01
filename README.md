@@ -1,13 +1,31 @@
-# 🔍 NLP Resume Analyzer
+<div align="center">
+  <h1 align="center">RESUME-ANALYZER</h1>
+  <h3><em>Transform Resumes Into Talent Insights Instantly</em></h3>
+  
+  ![Last Commit](https://img.shields.io/github/last-commit/your-username/resume-analyzer?label=last%20commit&color=blue)
+  ![Python](https://img.shields.io/badge/python-100.0%25-blue)
+  ![Languages](https://img.shields.io/badge/languages-1-green)
+  
+  <br>
+  
+  <h4><strong>Built with the tools and technologies:</strong></h4>
+  
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![spaCy](https://img.shields.io/badge/spaCy-%23046A38.svg?style=for-the-badge&logo=spacy&logoColor=white)
+  
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+</div>
 
-> **A comprehensive resume analysis tool using traditional machine learning models for job category classification and intelligent insights.**
-
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)](https://streamlit.io/)
+---
 
 ## 🚀 Live Demo
 
-Try the live application: [Coming Soon - Deploy on Streamlit Cloud]
+Try the live application: [[Click Here](https://arskye-resume-analyzer.streamlit.app/)]
 
 ## ✨ Features
 
