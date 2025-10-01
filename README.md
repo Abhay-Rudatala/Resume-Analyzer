@@ -2,7 +2,7 @@
   <h1 align="center">RESUME-ANALYZER</h1>
   <h3><em>Transform Resumes Into Talent Insights Instantly</em></h3>
   
-  ![Last Commit](https://img.shields.io/github/last-commit/your-username/resume-analyzer?label=last%20commit&color=blue)
+  ![Last Commit](https://img.shields.io/github/last-commit/Abhay-Rudatala/Resume-Analyzer?label=last%20commit&color=blue)
   ![Python](https://img.shields.io/badge/python-100.0%25-blue)
   ![Languages](https://img.shields.io/badge/languages-1-green)
   
