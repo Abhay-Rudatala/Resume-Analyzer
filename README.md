@@ -144,7 +144,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If this project helped you, please ⭐ star this repository!
 
-## 📞 Contact
+---
 
 **Built with ❤️ using traditional ML approaches that deliver reliable, interpretable results.**
 
