@@ -27,6 +27,10 @@ tqdm==4.66.1
 wordcloud==1.9.2
 openpyxl==3.1.2
 
-# Optional but recommended
+# Optional
 requests==2.31.0
 beautifulsoup4==4.12.2
+
+# Llama API Integration
+groq>=0.4.0
+python-dotenv>=1.0.0
